@@ -1,16 +1,18 @@
-## Hi there 👋
+Bem vindo ao meu perfil 👋👋
 
-<!--
-**EXTERM1N4D0R10/EXTERM1N4D0R10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é matheus
 
-Here are some ideas to get you started:
+-Estou cursando [ALURA](https://www.alura.com.br)
+-Estou cursando o JavaScript
+-Estou utilizando o espaço para os meus projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Entre em contato comigo por
+
+00001086231648SP@al.educacao.sp.gov.br
+
+@Matheus_Souza
+
+Melhor do mundo 🠣
+
+![](https://media1.tenor.com/m/VhFmRTHDglQAAAAd/messi-ronaldo.gif)
+
